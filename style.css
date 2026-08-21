@@ -84,3 +84,8 @@ h1 {
 #restart:hover {
     background: #555;
 }
+.subtitle {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+}
